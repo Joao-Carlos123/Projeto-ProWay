@@ -10,8 +10,11 @@ Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "
 
 Os botões abaixo demonstrados nas telas de cadastro tem as seguintes funções:
 
-≤ 
 Voltar para o cadastro anterior.
+
+![Antes](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Antes.PNG) 
+ 
+
 
 ≥
 Pular para o próximo cadastro gerado.
