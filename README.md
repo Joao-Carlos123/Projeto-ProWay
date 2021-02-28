@@ -4,3 +4,18 @@ Para iniciar o programa, precisamos inicialmente baixar todos os compontes adici
 onde a mesma vai se encontrar num local de sua preferência.
 Entre os arquivos baixados, possímos um em específico chamado "Projeto_Completo.exe" que pode ser feito um atalho do mesmo em um local de sua preferência.
 Ao executar, iniciamos o programa de "Cadastro de Eventos".
+### Utilização do Sistema de Cadastro de Eventos
+Após abrir o executavel, o "Sistema de Cadastro de Eventos" é iniciado.
+Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "Cadastro - Participantes, Sala de Treinamento, Sala de Café" e as demais de "Consulta - Salas de Participantes, Salas treinamento e Salas de Café".
+Antes de fazer o cadastro de participantes, é necessário primeiro o cadastro da "Sala de Treinamento" e "Sala de Café".
+
+![Tela Inicial](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/1.PNG)
+
+## Tela Cadastro "Sala de Treinamento"
+Ao abrir a tela, a mesma é composta por Código, Nome Sala e Lotação Evento.
+
+Código
+Número gerado automaticamente configurado como Chave do Banco.
+
+Nome Sala
+
