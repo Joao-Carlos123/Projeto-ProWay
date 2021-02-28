@@ -33,12 +33,15 @@ Antes de fazer o cadastro de participantes, é necessário primeiro o cadastro d
 Ao abrir a tela, a mesma é composta por Código, Nome Sala e Lotação Evento.
 
 Código
+
 Número gerado automaticamente configurado como Chave do Banco.
 
 Nome Sala
+
 Preencher com o nome desejado para a Sala de Treinamento.
 
 Lotação Evento
+
 Número de lotação da sala.
 
 ![Sala de Treinamento](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/3.PNG)
@@ -46,15 +49,20 @@ Número de lotação da sala.
 ## Tela Cadastro "Sala de Café"
 
 Código
+
 Número gerado automaticamente configurado como Chave do Banco.
 
 Nome Sala Café
+
 Preencher com o nome desejado para a Sala de Café.
 
 Lotação Sala Café
+
 Número de lotação da sala.
 
-![]()
+![Sala de Café](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/4.PNG)
+
+## Tela "Cadastro de Participantes"
 
 
 
