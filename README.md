@@ -92,6 +92,14 @@ Ao digitar o parte do nome ou sobrenome do cadastrado e clicar em buscar, a tela
 
 ![Consulta Salas de Participantes](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta1.PNG)
 
+## Tela Consulta "Salas Treinamento"
+
+Quando digitado o nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo demonstrara seu Nome, Sobrenome e o Nome da Sala onde o cadastrado foi direcionado.
+
+![Consulta Salas de Treinamento](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta2.PNG)
+
+
+
 
 
 
