@@ -22,8 +22,9 @@ Adicionar uma nova linha de cadastro.
 
 ![Adicionar](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Adicionar.PNG)
 
--
 Excluir linha de cadastro.
+
+![Excluir](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Excluir.PNG)
 
 ✔
 Confirma o cadastro ou alteração feita no mesmo.
