@@ -1,12 +1,13 @@
 # Projeto-ProWay
 ## Primeiros passos para iniciar o projeto
-Para iniciar o programa, precisamos inicialmente baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta, 
-onde a mesma vai se encontrar num local de sua preferência.
-Entre os arquivos baixados, possímos um em específico chamado "Projeto_Completo.exe" que pode ser feito um atalho do mesmo em um local de sua preferência.
+Para iniciar o programa, precisamos baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta, 
+onde a mesma vai se encontrar em um local de sua preferência.
+Entre os arquivos baixados, possuímos um em específico chamado "Projeto_Completo.exe" que pode ser feito um atalho do mesmo em um local de sua preferência para executa-lo.
 Ao executar, iniciamos o programa de "Cadastro de Eventos".
+
 ### Utilização do Sistema de Cadastro de Eventos
 Após abrir o executavel, o "Sistema de Cadastro de Eventos" é iniciado.
-Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "Cadastro - Participantes, Sala de Treinamento, Sala de Café" e as demais de "Consulta - Salas de Participantes, Salas treinamento e Salas de Café".
+Sua utilização é de fácil manuseio onde o mesmo possuí suas telas inicias de "Cadastro - Participantes, Sala de Treinamento, Sala de Café" e as demais de "Consulta - Salas de Participantes, Salas treinamento e Salas de Café".
 
 Os botões abaixo demonstrados nas telas de cadastro tem as seguintes funções:
 
