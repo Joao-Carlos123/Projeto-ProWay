@@ -26,8 +26,9 @@ Excluir linha de cadastro.
 
 ![Excluir](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Excluir.PNG)
 
-✔
 Confirma o cadastro ou alteração feita no mesmo.
+
+![Cofirma](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Confirmar.PNG)
 
 Antes de fazer o cadastro de participantes, é necessário primeiro o cadastro da "Sala de Treinamento" e "Sala de Café".
 
