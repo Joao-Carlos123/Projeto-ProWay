@@ -18,8 +18,9 @@ Pular para o próximo cadastro gerado.
 
 ![Depois](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Depois.PNG)
 
-+ 
 Adicionar uma nova linha de cadastro.
+
+![Adicionar](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Adicionar.PNG)
 
 -
 Excluir linha de cadastro.
