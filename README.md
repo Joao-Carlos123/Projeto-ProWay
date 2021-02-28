@@ -84,5 +84,7 @@ Sala Intervalo
 
 Escolher qual sala cadastrada o participante irá ter o intervalo.
 
+![Cadastro de Participantes](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/2.PNG)
+
 
 
