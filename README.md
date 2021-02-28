@@ -10,19 +10,13 @@ Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "
 
 Os botões abaixo demonstrados nas telas de cadastro tem as seguintes funções:
 
-|< 
-Voltar ao inicio do primeiro cadastro gerado.
-
 <
 Voltar para o cadastro anterior.
 
 >
 Pular para o próximo cadastro gerado.
 
->|
-Ir ao último cadastro gerado.
-
-+
++ 
 Adicionar uma nova linha de cadastro.
 
 -
