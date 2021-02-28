@@ -41,7 +41,20 @@ Preencher com o nome desejado para a Sala de Treinamento.
 Lotação Evento
 Número de lotação da sala.
 
-![Sala de Treinamento]()
+![Sala de Treinamento](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/3.PNG)
+
+## Tela Cadastro "Sala de Café"
+
+Código
+Número gerado automaticamente configurado como Chave do Banco.
+
+Nome Sala Café
+Preencher com o nome desejado para a Sala de Café.
+
+Lotação Sala Café
+Número de lotação da sala.
+
+![]()
 
 
 
