@@ -90,6 +90,10 @@ Escolher qual sala cadastrada o participante irá ter o intervalo.
 
 Ao digitar o parte do nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo irá demonstrar seu Código, Nome, Sobrenome, Sala de Treinamento que foi selecionado e sua Sala de Intervalo.
 
+![Consulta Salas de Participantes](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta1.PNG)
+
+
+
 
 
 
