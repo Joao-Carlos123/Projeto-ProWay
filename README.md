@@ -64,5 +64,25 @@ Número de lotação da sala.
 
 ## Tela "Cadastro de Participantes"
 
+Código
+
+Número gerado automaticamente configurado como Chave do Banco.
+
+Nome
+
+Preencher com o nome inicial do participante.
+
+Sobrenome
+
+Se houver, preencher com os demais sobrenomes do participante.
+
+Sala Treinamento
+
+Escolher qual sala cadastrada o participante irá ficar.
+
+Sala Intervalo
+
+Escolher qual sala cadastrada o participante irá ter o intervalo.
+
 
 
