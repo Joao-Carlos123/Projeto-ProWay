@@ -98,6 +98,14 @@ Quando digitado o nome ou sobrenome do cadastrado e clicar em buscar, a tela aba
 
 ![Consulta Salas de Treinamento](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta2.PNG)
 
+## Tela Consulta "Sala de Café"
+
+Digitando o nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo demonstra seu Nome, Sobrenome e o Nome da Sala de Café onde o cadastrado foi direcionado.
+
+![Consulta Sala de Café](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta3.PNG)
+
+
+
 
 
 
