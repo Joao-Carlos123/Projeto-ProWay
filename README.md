@@ -7,6 +7,30 @@ Ao executar, iniciamos o programa de "Cadastro de Eventos".
 ### Utilização do Sistema de Cadastro de Eventos
 Após abrir o executavel, o "Sistema de Cadastro de Eventos" é iniciado.
 Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "Cadastro - Participantes, Sala de Treinamento, Sala de Café" e as demais de "Consulta - Salas de Participantes, Salas treinamento e Salas de Café".
+
+Os botões abaixo demonstrados nas telas de cadastro tem as seguintes funções:
+
+|< 
+Voltar ao inicio do primeiro cadastro gerado.
+
+<
+Voltar para o cadastro anterior.
+
+>
+Pular para o próximo cadastro gerado.
+
+>|
+Ir ao último cadastro gerado.
+
++
+Adicionar uma nova linha de cadastro.
+
+-
+Excluir linha de cadastro.
+
+✔
+Confirma o cadastro ou alteração feita no mesmo.
+
 Antes de fazer o cadastro de participantes, é necessário primeiro o cadastro da "Sala de Treinamento" e "Sala de Café".
 
 ![Tela Inicial](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/1.PNG)
@@ -18,4 +42,10 @@ Código
 Número gerado automaticamente configurado como Chave do Banco.
 
 Nome Sala
+Preencher com o nome desejado para a Sala de Treinamento.
+
+Lotação Evento
+Número de lotação da sala.
+
+
 
