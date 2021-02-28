@@ -10,10 +10,10 @@ Sua utilização é fácil manuseio onde o mesmo possuí suas telas inicias de "
 
 Os botões abaixo demonstrados nas telas de cadastro tem as seguintes funções:
 
-<
+≤ 
 Voltar para o cadastro anterior.
 
->
+≥
 Pular para o próximo cadastro gerado.
 
 + 
@@ -40,6 +40,8 @@ Preencher com o nome desejado para a Sala de Treinamento.
 
 Lotação Evento
 Número de lotação da sala.
+
+![Sala de Treinamento]()
 
 
 
