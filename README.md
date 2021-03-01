@@ -6,7 +6,7 @@ Salvar todos os conteúdos publicado em uma pasta Projeto na Desktop. Após isso
 ![Seta Compilar](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Seta%20verde.PNG)
 
 ## Primeiros passos para iniciar o projeto
-Para iniciar o programa, precisamos baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta Projeto na Desktop.
+Para iniciar o programa, precisamos baixar todos os componentes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta Projeto na Desktop.
 Entre os arquivos baixados, possuímos um em específico chamado "Projeto_Completo.exe" que pode ser feito um atalho do mesmo em um local de sua preferência para executa-lo.
 Ao executar, iniciamos o programa de "Cadastro de Eventos".
 
