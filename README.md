@@ -1,7 +1,11 @@
 # Projeto-ProWay
+
+## Compilação do programa
+
+Salvar todos os conteúdos publicado em uma pasta Projeto na Desktop. Após isso, utilizando o Software Delphi 7 ou versão superior, entrar na pasta Projeto e abrir o arquivo "Projeto_Completo.dpr", logo, para compilação tecle F9 ou precione o botão conforme imagem.
+
 ## Primeiros passos para iniciar o projeto
-Para iniciar o programa, precisamos baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta, 
-onde a mesma vai se encontrar em um local de sua preferência.
+Para iniciar o programa, precisamos baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta Projeto na Desktop.
 Entre os arquivos baixados, possuímos um em específico chamado "Projeto_Completo.exe" que pode ser feito um atalho do mesmo em um local de sua preferência para executa-lo.
 Ao executar, iniciamos o programa de "Cadastro de Eventos".
 
@@ -94,19 +98,19 @@ Escolher qual sala cadastrada o participante irá ter o intervalo.
 
 ## Tela Consulta "Salas de Participantes"
 
-Ao digitar o parte do nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo irá demonstrar seu Código, Nome, Sobrenome, Sala de Treinamento que foi selecionado e sua Sala de Intervalo.
+Ao digitar o parte do nome ou nome do cadastrado e clicar em buscar, a tela abaixo irá demonstrar seu Código, Nome, Sobrenome, Sala de Treinamento que foi selecionado e sua Sala de Intervalo.
 
 ![Consulta Salas de Participantes](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta1.PNG)
 
 ## Tela Consulta "Salas Treinamento"
 
-Quando digitado o nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo demonstrara seu Nome, Sobrenome e o Nome da Sala onde o cadastrado foi direcionado.
+Quando digitado o nome ou parte do nome do cadastrado e clicar em buscar, a tela abaixo demonstrara seu Nome, Sobrenome e o Nome da Sala onde o cadastrado foi direcionado.
 
 ![Consulta Salas de Treinamento](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta2.PNG)
 
 ## Tela Consulta "Sala de Café"
 
-Digitando o nome ou sobrenome do cadastrado e clicar em buscar, a tela abaixo demonstra seu Nome, Sobrenome e o Nome da Sala de Café onde o cadastrado foi direcionado.
+Digitando o nome ou parte do nome do cadastrado e clicar em buscar, a tela abaixo demonstra seu Nome, Sobrenome e o Nome da Sala de Café onde o cadastrado foi direcionado.
 
 ![Consulta Sala de Café](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Consulta3.PNG)
 
