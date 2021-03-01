@@ -2,7 +2,8 @@
 
 ## Compilação do programa
 
-Salvar todos os conteúdos publicado em uma pasta Projeto na Desktop. Após isso, utilizando o Software Delphi 7 ou versão superior, entrar na pasta Projeto e abrir o arquivo "Projeto_Completo.dpr", logo, para compilação tecle F9 ou precione o botão conforme imagem.
+Salvar todos os conteúdos publicado em uma pasta Projeto na Desktop. Após isso, utilizando o Software Delphi 7 ou versão superior, entrar na pasta Projeto e abrir o arquivo "Projeto_Completo.dpr", logo, para compilação tecle F9 ou precione o botão conforme imagem:  
+![Seta Compilar](https://github.com/Joao-Carlos123/Projeto-ProWay/blob/master/Seta%20verde.PNG)
 
 ## Primeiros passos para iniciar o projeto
 Para iniciar o programa, precisamos baixar todos os compontes adicionados no repositório "Projeto-Proway" e adiciona-los em uma pasta Projeto na Desktop.
